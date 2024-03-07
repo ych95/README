@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **ych95/ych95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,11 +33,13 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
 
+<br>
 <br>
 
 <div align="center">
@@ -56,6 +58,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
@@ -71,10 +74,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
-<div align="center">
-</div>
-
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
