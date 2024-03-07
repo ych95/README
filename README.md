@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp
@@ -46,6 +45,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
 </div>
+
+<br>
+<br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
