@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=100&section=header&text=WelcomeToMyGitHub!&fontSize=50&fontColor=007396" />
 </div>
 
-<!--내용 부분-->
+<!--내용부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=oracle&logoColor=20232a">
