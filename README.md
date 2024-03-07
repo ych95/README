@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">📚 Studying 📚</h3>
