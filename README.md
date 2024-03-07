@@ -77,9 +77,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/ckksa111@gmail.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
   </a>
-  <a href="ckksa111@naver.com">
+  <a href="https://www.naver.com">
     <img
       src="https://img.shields.io/badge/ckksa111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
