@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=WelcometomyGitHub!&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=100&section=header&text=Welcome%To%My%GitHub!&fontSize=50" />
 </div>
 
 <!--내용 부분-->
