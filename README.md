@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=100&section=header&text=Welcome%To%My%GitHub!&fontSize=50&fontColor=007396" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=100&section=header&text=WelcomeToMyGitHub!&fontSize=50&fontColor=007396" />
 </div>
 
 <!--내용 부분-->
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
 </div>
 
 <br>
