@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=<Welcome!>&fontSize=90&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!%20render&fontSize=90" />
 </div>
 
 <!--내용 부분-->
