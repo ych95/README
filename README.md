@@ -1,4 +1,4 @@
-### 👋Hello, Nice meet you!
+### 👋Hello, Nice to meet you!
 
 <br>
 
