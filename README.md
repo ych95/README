@@ -17,7 +17,6 @@
 </div>
 
 <br>
-<br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -25,7 +24,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-<br>
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
@@ -39,7 +37,6 @@
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </div>
 
-<br>
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
