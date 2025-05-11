@@ -1,6 +1,3 @@
-### 👋Hello, Nice to meet you!
-
-<br>
 
 <!--타이틀 부분-->
 <div align="center">
